@@ -21,7 +21,7 @@ class Program
         Console.WriteLine("3. Editar despesa");
         Console.WriteLine("4. Remover despesa");
         Console.WriteLine("5. Exibir despesas totais");
-        Console.WriteLine("6. Sair \n");
+        Console.WriteLine("6. Sair\n");
     }
 
     static string GetUserChoice()
@@ -50,6 +50,7 @@ class Program
                 DisplayTotalExpenses(manager);
                 break;
             case "6":
+                Console.WriteLine("\nObrigado por utilizar meu programa!\n");
                 Environment.Exit(0);
                 break;
             default:
@@ -70,7 +71,7 @@ class Program
 
     static void DisplayExpenses(ExpenseManager manager)
     {
-        Console.WriteLine("\n Exibindo todas as despesas:");
+        Console.WriteLine("\nExibindo todas as despesas:");
         foreach (var expense in manager.Expenses)
         {
             Console.WriteLine($"- {expense.Description}: ${expense.Amount}");
@@ -159,7 +160,7 @@ class Program
         if (expenseToRemove != null)
         {
             manager.RemoveExpense(expenseToRemove);
-            Console.WriteLine("\n Despesa removida com sucesso.");
+            Console.WriteLine("\nDespesa removida com sucesso.");
         }
         else
         {
