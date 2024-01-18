@@ -16,7 +16,7 @@ class Program
 
     static void PrintMenu()
     {
-        Console.WriteLine("1. Exibir despesas");
+        Console.WriteLine("\n1. Exibir despesas");
         Console.WriteLine("2. Adicionar despesa");
         Console.WriteLine("3. Editar despesa");
         Console.WriteLine("4. Remover despesa");
@@ -26,7 +26,7 @@ class Program
 
     static string GetUserChoice()
     {
-        Console.Write("Escolhe uma opção: ");
+        Console.Write("Escolha uma opção: ");
         return Console.ReadLine();
     }
 
@@ -70,7 +70,7 @@ class Program
 
     static void DisplayExpenses(ExpenseManager manager)
     {
-        Console.WriteLine("Exibindo todas as despesas:");
+        Console.WriteLine("\n Exibindo todas as despesas:");
         foreach (var expense in manager.Expenses)
         {
             Console.WriteLine($"- {expense.Description}: ${expense.Amount}");
@@ -159,7 +159,7 @@ class Program
         if (expenseToRemove != null)
         {
             manager.RemoveExpense(expenseToRemove);
-            Console.WriteLine("Despesa removida com sucesso.");
+            Console.WriteLine("\n Despesa removida com sucesso.");
         }
         else
         {
@@ -170,6 +170,6 @@ class Program
     static void DisplayTotalExpenses(ExpenseManager manager)
     {
         decimal totalExpenses = manager.CalculateTotalExpenses();
-        Console.WriteLine($"Despesas totais: ${totalExpenses}");
+        Console.WriteLine($"\n Despesas totais: ${totalExpenses}");
     }
 }

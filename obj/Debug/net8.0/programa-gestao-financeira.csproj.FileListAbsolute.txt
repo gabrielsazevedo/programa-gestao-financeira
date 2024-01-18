@@ -1,0 +1,15 @@
+C:\Users\lucas\Downloads\programa-gestao-financeira\bin\Debug\net8.0\programa-gestao-financeira.exe
+C:\Users\lucas\Downloads\programa-gestao-financeira\bin\Debug\net8.0\programa-gestao-financeira.deps.json
+C:\Users\lucas\Downloads\programa-gestao-financeira\bin\Debug\net8.0\programa-gestao-financeira.runtimeconfig.json
+C:\Users\lucas\Downloads\programa-gestao-financeira\bin\Debug\net8.0\programa-gestao-financeira.dll
+C:\Users\lucas\Downloads\programa-gestao-financeira\bin\Debug\net8.0\programa-gestao-financeira.pdb
+C:\Users\lucas\Downloads\programa-gestao-financeira\obj\Debug\net8.0\programa-gestao-financeira.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\Downloads\programa-gestao-financeira\obj\Debug\net8.0\programa-gestao-financeira.AssemblyInfoInputs.cache
+C:\Users\lucas\Downloads\programa-gestao-financeira\obj\Debug\net8.0\programa-gestao-financeira.AssemblyInfo.cs
+C:\Users\lucas\Downloads\programa-gestao-financeira\obj\Debug\net8.0\programa-gestao-financeira.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Downloads\programa-gestao-financeira\obj\Debug\net8.0\programa-gestao-financeira.sourcelink.json
+C:\Users\lucas\Downloads\programa-gestao-financeira\obj\Debug\net8.0\programa-gestao-financeira.dll
+C:\Users\lucas\Downloads\programa-gestao-financeira\obj\Debug\net8.0\refint\programa-gestao-financeira.dll
+C:\Users\lucas\Downloads\programa-gestao-financeira\obj\Debug\net8.0\programa-gestao-financeira.pdb
+C:\Users\lucas\Downloads\programa-gestao-financeira\obj\Debug\net8.0\programa-gestao-financeira.genruntimeconfig.cache
+C:\Users\lucas\Downloads\programa-gestao-financeira\obj\Debug\net8.0\ref\programa-gestao-financeira.dll

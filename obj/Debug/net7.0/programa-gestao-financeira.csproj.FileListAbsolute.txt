@@ -12,3 +12,4 @@ C:\Users\lucas\Downloads\programa-gestao-financeira\obj\Debug\net7.0\refint\prog
 C:\Users\lucas\Downloads\programa-gestao-financeira\obj\Debug\net7.0\programa-gestao-financeira.pdb
 C:\Users\lucas\Downloads\programa-gestao-financeira\obj\Debug\net7.0\programa-gestao-financeira.genruntimeconfig.cache
 C:\Users\lucas\Downloads\programa-gestao-financeira\obj\Debug\net7.0\ref\programa-gestao-financeira.dll
+C:\Users\lucas\Downloads\programa-gestao-financeira\obj\Debug\net7.0\programa-gestao-financeira.sourcelink.json
